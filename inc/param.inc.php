@@ -19,3 +19,4 @@ if (isset($_POST['conversionunit'])){
   	// looks like the form wasn't being posted
 	$conversionUnit = "";
 } // end if
+?>

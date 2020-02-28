@@ -43,4 +43,4 @@ function convertTemp($temp,$unit1,$unit2){
 	} // end switch
 
 } // end function
-
+?>
